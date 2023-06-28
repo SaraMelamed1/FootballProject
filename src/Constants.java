@@ -1,0 +1,73 @@
+public class Constants {
+    public static int PLAYERS_NUM = 15,MAX_GOALS = 5 , MAX_TEAMS = 10,MAX_OPTIONS_FIRST_MENU = 5,
+            FIND_MATCHES_BY_TEAM = 1, FIND_TOP_SCORING_TEAMS = 2, FIND_PLAYERS_N_GOALS =3,
+            FIND_TEAM_BY_POSITION =4, FIND_TOP_SCORERS = 5;
+
+    public static int MINUTES_OF_GAME = 90 , ROUNDS =9 , NUM_OF_PLAYERS_AT_TEAM = 15;
+    public static int WIN_POINTS = 3, TIE_POINTS = 1, NUM_MATCHES_EVERY_ROUND =5
+            ,GAME_SECONDS = 10 , SECOND = 1000;
+
+    public static final String[] PLAYERS_FIRST_NAMES = {"Lionel",
+            " Cristiano",
+            "Neymar",
+            "Kylian",
+            "Mohamed",
+            "Kevin",
+            "Robert",
+            "Harry",
+            "Sergio",
+            "Luka",
+            "Eden",
+            "Virgil",
+            "Manuel",
+            "Paulo",
+            "Antoine",
+            "Karim",
+            "Luis",
+            "Paul",
+            "Marco",
+            "Gareth",
+            "Romelu",
+            "David",
+            "Sadio",
+            "Toni",
+            "Alisson",
+            "Raheem",
+            "Thomas",
+            "Marcelo",
+            "Thiago",
+            "Pierre-Emerick"};
+
+    public static final String[] PLAYERS_LAST_NAMES = {"Messi",
+            "Ronaldo",
+            "Jr",
+            "Mbappé",
+            "Salah",
+            "Bruyne",
+            "Lewandowski",
+            "Kane",
+            "Ramos",
+            "Modrić",
+            "Hazard",
+            "Dijk",
+            "Neuer",
+            "Dybala",
+            "Griezmann",
+            "Benzema",
+            "Suárez",
+            "Pogba",
+            "Reus",
+            "Bale",
+            "Lukaku",
+            "De Gea",
+            "Mané",
+            "Kroos",
+            "Becker",
+            "Sterling",
+            "Müller",
+            "Vieira",
+            "Alcântara",
+            "Aubameyang"};
+}
+
+
